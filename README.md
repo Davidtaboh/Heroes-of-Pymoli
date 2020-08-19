@@ -8,7 +8,7 @@ the demographics of the playerbase and on the in game items that this playerbase
 * Microsoft Excel
 * Juypter Notebook
 
-## Getting Started
+### Getting Started
 
 * Download the data
 * Download the Python file
@@ -17,6 +17,6 @@ the demographics of the playerbase and on the in game items that this playerbase
 
 After downloading the data and the code, one should be able to run the code by opening up the code in Juypter Notebook and running it in the environment.
 
-## License
+### License
 
 This project is licensed under the MIT License
